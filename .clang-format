@@ -1,0 +1,17 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 8
+UseTab: ForIndentation
+TabWidth: 8
+BreakBeforeBraces: Stroustrup
+AllowShortIfStatementsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Empty
+RemoveBracesLLVM: true
+IndentCaseLabels: false
+SpacesBeforeTrailingComments: 1
+BinPackParameters: true
+BinPackArguments: true
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowAllArgumentsOnNextLine: false
+AlignAfterOpenBracket: Align
+ColumnLimit: 120
